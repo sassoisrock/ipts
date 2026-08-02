@@ -3,3 +3,4 @@ run.log
 *.bak
 data/sources/
 FETCH_HEAD
+data/output/
